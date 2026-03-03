@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "timestamp_utc": "2026-01-17T16:05:09.292066+00:00",
+    "hostname": "Adewales-MacBook-Pro.local",
+    "target": "postgres"
+  },
+  "status": "CRIT",
+  "connect_ms": null,
+  "version": null,
+  "active_connections": null,
+  "errors": [
+    "connection failed: connection to server at \"127.0.0.1\", port 5432 failed: FATAL:  role \"postgres\" does not exist\nMultiple connection attempts failed. All failures were:\n- host: 'localhost', port: 5432, hostaddr: '::1': connection failed: connection to server at \"::1\", port 5432 failed: FATAL:  role \"postgres\" does not exist\n- host: 'localhost', port: 5432, hostaddr: '127.0.0.1': connection failed: connection to server at \"127.0.0.1\", port 5432 failed: FATAL:  role \"postgres\" does not exist"
+  ]
+}

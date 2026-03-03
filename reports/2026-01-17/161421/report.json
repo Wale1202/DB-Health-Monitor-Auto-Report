@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "timestamp_utc": "2026-01-17T16:14:21.371483+00:00",
+    "hostname": "Adewales-MacBook-Pro.local",
+    "target": "postgres"
+  },
+  "status": "OK",
+  "connect_ms": 4016,
+  "version": "PostgreSQL 18.0 (Postgres.app) on aarch64-apple-darwin23.6.0, compiled by Apple clang version 15.0.0 (clang-1500.3.9.4), 64-bit",
+  "active_connections": 9,
+  "errors": []
+}
