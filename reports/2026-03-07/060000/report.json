@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "timestamp_utc": "2026-03-07T06:00:02.127900+00:00",
+    "hostname": "Adewales-MacBook-Pro.local",
+    "target": "postgres"
+  },
+  "status": "CRIT",
+  "connect_ms": null,
+  "version": null,
+  "active_connections": null,
+  "errors": [
+    "connection timeout expired"
+  ]
+}

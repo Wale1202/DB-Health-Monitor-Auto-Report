@@ -1,0 +1,8 @@
+Postgres Health Report - 2026-03-07T06:00:02.127900+00:00
+Host: Adewales-MacBook-Pro.local
+Status: CRIT
+Connect time: None ms
+Version: n/a
+Active connections: n/a
+Errors:
+ - connection timeout expired

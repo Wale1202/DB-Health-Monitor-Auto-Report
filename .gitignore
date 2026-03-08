@@ -1,0 +1,9 @@
+.env
+.venv/
+.idea
+__pycache__
+.DS_Store
+.build/
+lambda.zip
+logs/
+
